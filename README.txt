@@ -21,7 +21,7 @@ untuk menyiapkan data agar dapat digunakan kedalam model ML yang akan kita buat 
 Notebook ini terdiri dari 3 bagian :
 	3.1 	Pertama adalah EDA untuk menganalisis data lebih lanjut menggunakan data yang sudah kita bersihka sebelumnya. Hasil EDA akan menjelaskan beberapa
 		insight bisnis yang bisa kita dapatkan dari mengeksplorasi data secara lebih mendalam.
-	3.2 	Kedua adalah model ML untuk dapat memprediksi jumlah premi perbulan calon nasabah baru menggunakan fitur-fitur yang bisa kita kumpulkan dari para calon nasabah baru.
+	3.2 	Kedua adalah model ML untuk dapat memprediksi jumlah premi perbulan calon nasabah baru menggunakan fitur-fitur yang bisa kita kumpulkan dari para calon 		nasabah baru.
 	3.3	Ketiga adalah model ML untuk dapat memprediksi jumlah total klaim asuransi calon nasabah baru agar kita dapat melakukan klasifikasi terhadap calon nasabah
 		yang berpeluang mempunyai total klaim asuransi yang tinggi di masa depan.
 
@@ -32,7 +32,7 @@ Notebook ini berisi mengenai kesimpulan dari apa yang sudah kita kerjakan sebelu
 rekomendasi mengenai project ini baik rekomendasi terhadap model ML yang kita buat maupun rekomendasi bagi perusahaan untuk mencapai goals dari perusahaan itu sendiri.
 
 ==================================================================================
-MonthlyPremiumAuto.sav
+MonthlyPremiumAuto.sav (file berukuran besar, tidak bisa disubmit tapi dapat di download di notebook "3.Analytical_Approach_and_Model.ipynb" > Save Model)
 
 Model ML untuk penentuan jumlah premi perbulan calon nasabah baru dalam format file .sav yang sudah menggunakan parameter terbaik dan skor error terkecil.
 
